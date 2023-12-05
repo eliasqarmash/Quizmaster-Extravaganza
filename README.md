@@ -1,11 +1,11 @@
-# Quiz Game using Langchain and Streamlit
+# Quizmaster-Extravaganza is a quiz game  which uses generative AI to create quizes based on your topic of choice
 
 ## Overview
 This project is a quiz game application built using the Langchain and Streamlit libraries. It leverages the power of OpenAI's language models to generate quiz questions and Streamlit for the user interface.
 
-### Features
-- **Dynamic Quiz Generation**: Questions are generated using the `ChatOpenAI` class from Langchain.
-- **Customizable Quizzes**: Users can select their preferred topic, number of questions, and difficulty level.
+### Attributes
+- **Quiz Generation**: Questions are created using the `ChatOpenAI` class from Langchain.
+- **User specific Quizzes**: Users can select a topic, and number of questions.
 - **Multiple Choice Format**: Each question comes with four options, out of which only one is correct.
 - **Scoring System**: After submission, users can view their score and their highest score.
 
