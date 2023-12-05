@@ -1,7 +1,6 @@
 import streamlit as st
 from quiz import prepare_quiz
-# import os
-# os.environ["OPENAI_API_KEY"] = "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"
+
 
 def prepare_main_screen():
     """
