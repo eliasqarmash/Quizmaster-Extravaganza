@@ -25,7 +25,10 @@ Ensure you have the following installed:
 3. Install required dependencies by running:
 
     pip install -r requirements.txt
-4. To start the application, run:
+4. Navigate to create_main_screen function and find the line st.session_state["API_KEY"] = "Insert API Key"
+5. Insert yout API Key in place of "Insert API Key"
+
+    To start the application, run:
 
     streamlit run pages/main.py
 
